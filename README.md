@@ -7,7 +7,7 @@ cd andromedaApp
 npm install
 npm run dev
 ## Usage
-Open the [andromeda protocol link](https://app.andromedaprotocol.io) and Connect your crypto wallet.
+Open the [andromeda protocol link](https://app.andromedaprotocol.io) and Connect your Kepler wallet.
 
 Select and add the modules you want to include in your app.
 
