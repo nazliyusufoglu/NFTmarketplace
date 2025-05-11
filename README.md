@@ -13,6 +13,6 @@ Select and add the modules you want to include in your app.
 
 Save your json file.
 
-Update the app's json file with yours
+Update the app's config file with your json file infos
 
 Your decentralized app is now ready to be deployed or tested.
