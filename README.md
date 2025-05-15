@@ -1,18 +1,25 @@
-# andromedaApp
-This repo is about a blockchain web3 app named "Andromeda". 
-This repo is a modular Web3 application built on the Andromeda blockchain. It allows users to connect their wallets, add modules with  low code.
-## Installation
+# Project Title  
+AndromedaApp
+
+## Project Description  
+AndromedaApp is a modular Web3 application built on the Andromeda blockchain. It allows users to connect their wallets and add modules with low code.
+
+## Key Features  
+- Keplr wallet integration  
+- Low-code module addition  
+- Customizable via JSON configuration  
+- Built on the Andromeda blockchain  
+
+## Additional Features   
+- Rapid app creation using a ready-made module system  
+- Easy app configuration updates using JSON files  
+
+## Embeddable Links  
+- [Live App - Andromeda Protocol](https://app.andromedaprotocol.io)
+
+## Project Setup / Installation guide   
+```bash
 git clone repo-link
 cd andromedaApp
 npm install
 npm run dev
-## Usage
-Open the [andromeda protocol link](https://app.andromedaprotocol.io) and Connect your Kepler wallet.
-
-Select and add the modules you want to include in your app.
-
-Save your json file.
-
-Update the app's config file with your json file infos
-
-Your decentralized app is now ready to be deployed or tested.
