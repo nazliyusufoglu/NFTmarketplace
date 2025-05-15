@@ -17,7 +17,7 @@ AndromedaApp is a modular Web3 application built on the Andromeda blockchain. It
 ## Embeddable Links  
 - [Live App - Andromeda Protocol](https://app.andromedaprotocol.io)
 
-## Project Setup / Installation guide   
+## Installation guide   
 ```bash
 git clone repo-link
 cd andromedaApp
