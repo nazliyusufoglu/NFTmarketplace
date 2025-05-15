@@ -1,5 +1,5 @@
 # Project Title  
-Andromeda NFT marketplace
+NFT marketplace
 
 ## Project Description  
 AndromedaApp is a modular Web3 application built on the Andromeda blockchain. It allows users to connect their wallets and add modules with low code.
